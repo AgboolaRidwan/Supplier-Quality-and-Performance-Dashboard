@@ -46,17 +46,17 @@ After normalizing the data set and creating a date table, the data set was model
 
 ## Performance Breakdown
 
-Vendor Performance:
+### Vendor Performance:
 
 Vendors like Yombu, Avamm, and Meejo have the highest defect quantities, with Yombu topping the list at approximately 15 million defects.
 Vendor risk levels are categorized into high, medium, and low. High-risk vendors demonstrate a higher defect quantity, posing a significant impact on production efficiency.
 
-Plant Location Performance:
+### Plant Location Performance:
 
 Top Defective Plants: Hingham, Charles City, and Twin Rocks are the top three locations with high defect quantities. Hingham leads with over 100 million reported defects.
 Impact Analysis: Defects at these plants lead to substantial downtimes, with Westside, Weaverville, and Waldoboro having notable downtime hours due to defective products.
 
-Defect Type:
+### Defect Type:
 
 Common defect categories include Not Certified and Bad Seams, contributing heavily to downtime hours.
 Defects such as “Not Certified” have the highest downtime impact, with 13.8K hours lost.
@@ -69,23 +69,23 @@ Materials
 
 
 ## General Recommendations
-To reduce downtime and enhance overall performance, manufacturing firms can consider the following recommendations:
+### To reduce downtime and enhance overall performance, manufacturing firms can consider the following recommendations:
 
-Implement Preventive Maintenance: Routine maintenance schedules for machines and equipment can prevent unexpected breakdowns, reducing downtime and ensuring reliable operation.
+**Implement Preventive Maintenance**: Routine maintenance schedules for machines and equipment can prevent unexpected breakdowns, reducing downtime and ensuring reliable operation.
 
-Strengthen Supplier Quality Control: Regularly audit and evaluate suppliers to ensure consistent quality and timeliness of raw materials. 
+**Strengthen Supplier Quality Control**: Regularly audit and evaluate suppliers to ensure consistent quality and timeliness of raw materials. 
 Setting performance benchmarks and penalties for non-compliance can also motivate suppliers to maintain quality standards.
 
-Invest in Training Programs: Train staff on machine handling, maintenance best practices, and quality control. 
+**Invest in Training Programs**: Train staff on machine handling, maintenance best practices, and quality control. 
 Skilled employees are more likely to identify and resolve issues quickly, reducing the potential for downtime.
 
-Adopt Data-Driven Decision-Making: Utilize dashboards and analytical tools, like Power BI, to continuously monitor defect rates, downtime hours, and cost impacts. 
+**Adopt Data-Driven Decision-Making**: Utilize dashboards and analytical tools, like Power BI, to continuously monitor defect rates, downtime hours, and cost impacts. 
 Data-driven insights enable informed decision-making and faster response times to operational issues.
 
-Optimize Inventory Management: Avoid shortages of essential materials by implementing an inventory management system that aligns with production schedules. 
+**Optimize Inventory Management**: Avoid shortages of essential materials by implementing an inventory management system that aligns with production schedules. 
 This reduces downtime caused by material unavailability.
 
-Foster Collaboration with Vendors and Plants: Establish strong communication channels with high-risk vendors and underperforming plants to collaboratively solve issues, improve performance, and reduce defect rates.
+**Foster Collaboration with Vendors and Plants**: Establish strong communication channels with high-risk vendors and underperforming plants to collaboratively solve issues, improve performance, and reduce defect rates.
 
 Through a proactive approach to downtime management, manufacturing firms can achieve higher operational stability, improve quality, and enhance their competitiveness in the market.
 
